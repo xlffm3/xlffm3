@@ -1,5 +1,8 @@
 ## 👋 Jinhong's Github Profile
+<div align=center>
+ 
 [![Jinhong's github stats](https://github-readme-stats.vercel.app/api?username=xlffm3&theme=vue&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br>
+</div>
 <div align=center>
  
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://xlffm3.github.io/about/)](https://xlffm3.github.io/about/)
