@@ -5,7 +5,7 @@
 </div>
 <div align=center>
 
-[![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://xlffm3.github.io/about/)](https://xlffm3.github.io/about/)
+[![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://xlffm3.github.io/portfolio/)](https://xlffm3.github.io/portfolio/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blueviolet?style=flat-square&logo=Jekyll&link=https://xlffm3.github.io/)](https://xlffm3.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hong___o/)](https://www.instagram.com/hong___o/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/qkrwlsghd)](https://www.facebook.com/qkrwlsghd)
