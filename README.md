@@ -12,13 +12,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xlffm3@gmail.com)](mailto:xlffm3@gmail.com)
 </div>
 
-### 💻 Career
-
-* 우아한테크코스 교육생 ``2021.02 - ``
-* Cadet of 42 Seoul, Innovation Academy ``2020.01 - 2021.01``
-
 ### 🏫 Education
 
+* 우아한테크코스 ``2021.02 - ``
+* 42 Seoul, Innovation Academy ``2020.01 - 2021.01``
 * Hankuk University of Foreign Studies, Seoul Campus ``2013.02 - 2018.12``
   * Bachelor of Arts in English Interpretation and Translation
   * Bachelor of Business Administration
