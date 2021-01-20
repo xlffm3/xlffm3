@@ -24,4 +24,4 @@
 
 * Java with Spring & Spring Boot 🌱
 * [Reading Books 📖](https://xlffm3.github.io/books/)
-* Weight Training 🏋️
+* Workout 🏋️
