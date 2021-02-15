@@ -1,4 +1,3 @@
-## 👋 Jinhong's Github Profile
 <div align=center>
 
 [![Jinhong's github stats](https://github-readme-stats.vercel.app/api?username=xlffm3&theme=vue&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
