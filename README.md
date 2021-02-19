@@ -4,7 +4,7 @@
 </div>
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-181717?style=flat-square&logo=github&link=https://xlffm3.github.io)](https://xlffm3.github.io)
+[![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-181717?style=flat-square&logo=github&link=https://xlffm3.github.io)](https://xlffm3.github.io)
 [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat-square&logo=notion&link=https://www.notion.so/Jinhong-Park-d5ed848bced04634a408e69e5071e38a)](https://www.notion.so/Jinhong-Park-d5ed848bced04634a408e69e5071e38a)
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-6DB33F?style=flat-square&logoColor=white&logo=spring&link=https://xlffm3.github.io/portfolio/)](https://xlffm3.github.io/portfolio/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hong___o/)](https://www.instagram.com/hong___o/)
