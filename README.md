@@ -15,7 +15,7 @@
 ### 🏫 Education
 
 * 우아한테크코스 ``2021.02 - 2021.11``
-* Hankuk University of Foreign Studies, Seoul Campus ``2013.02 - 2018.12``
+* Hankuk University of Foreign Studies, Seoul Campus ``2013.02 - 2021.02``
   * Bachelor of Arts in English Interpretation and Translation
   * Bachelor of Business Administration
 
