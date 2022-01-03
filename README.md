@@ -21,6 +21,6 @@
 
 ### 📚 Interest
 
-* Java with Spring & Spring Boot 🌱
+* Java ☕ & Spring Framework 🌱
 * Sharing Experiences
 * Workout 🏋️
