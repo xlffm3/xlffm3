@@ -11,16 +11,3 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/qkrwlsghd)](https://www.facebook.com/qkrwlsghd)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:xlffm3@gmail.com)](mailto:xlffm3@gmail.com)
 </div>
-
-### 🏫 Education
-
-* 우아한테크코스 ``2021.02 - 2021.11``
-* Hankuk University of Foreign Studies, Seoul Campus ``2013.02 - 2021.02``
-  * Bachelor of Arts in English Interpretation and Translation
-  * Bachelor of Business Administration
-
-### 📚 Interest
-
-* Java ☕ & Spring Framework 🌱
-* Sharing Experiences
-* Workout 🏋️
